@@ -1,4 +1,4 @@
-Hello everyone! At this link: https://huggingface.co/spaces/SimoneP/J there the prototype of my app. I an app that help you to find a job. If you have 10 minutes and you would like to try it, please contact me on LinkedIn: https://www.linkedin.com/in/simoneproto/
+Hello everyone! At this link: https://huggingface.co/spaces/SimoneP/J there is the prototype of my app. Is an app that help you to find a job. If you have 10 minutes and you would like to try it, please contact me on LinkedIn: https://www.linkedin.com/in/simoneproto/
 
 <!--
 **SimonePrt/SimonePrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
